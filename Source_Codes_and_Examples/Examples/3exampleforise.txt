@@ -1,0 +1,17 @@
+<:
+    tam x.
+    ata(x ve 10).
+
+    ise(x < 10)
+    <: 
+        ata(x ve 7).
+    :>
+    yada(x == 10)
+    <:  
+        ata(x ve 4).
+    :>
+    degilse
+    <:
+        ata(x ve 1).
+    :>    
+:>

@@ -1,0 +1,11 @@
+<:
+    tam degisken1.
+    ondalik degisken2.
+    simge degisken3.
+    mantik degisken4.   
+
+    ata(degisken1 ve 9).
+    ata(degisken2 ve 14,53).
+    ata(degisken3 ve >>t>>).
+    ata(degisken4 ve DOGRU).
+:>

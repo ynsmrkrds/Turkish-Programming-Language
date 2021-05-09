@@ -1,0 +1,9 @@
+<:
+    tam x.
+    ata(x ve 20).
+
+    boyleyken(x >= 5)
+    <:
+        ata(x ve cikar(x ve 5)).
+    :>
+:>

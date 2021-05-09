@@ -1,0 +1,7 @@
+<:
+    tam x/3\.
+    simge y/3\.
+
+    ata(x ve [0 ve 1 ve 2]).
+    ata(y ve [>>T>> ve >>P>> ve >>L>>]).
+:>
